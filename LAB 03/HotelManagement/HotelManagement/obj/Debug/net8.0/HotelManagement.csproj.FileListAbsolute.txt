@@ -1,0 +1,14 @@
+C:\Users\ADMIN\Desktop\Lab 03\HotelManagement\HotelManagement\obj\Debug\net8.0\HotelManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\Lab 03\HotelManagement\HotelManagement\obj\Debug\net8.0\HotelManagement.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\Lab 03\HotelManagement\HotelManagement\obj\Debug\net8.0\HotelManagement.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\Lab 03\HotelManagement\HotelManagement\obj\Debug\net8.0\HotelManagement.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Lab 03\HotelManagement\HotelManagement\bin\Debug\net8.0\HotelManagement.exe
+C:\Users\ADMIN\Desktop\Lab 03\HotelManagement\HotelManagement\bin\Debug\net8.0\HotelManagement.deps.json
+C:\Users\ADMIN\Desktop\Lab 03\HotelManagement\HotelManagement\bin\Debug\net8.0\HotelManagement.runtimeconfig.json
+C:\Users\ADMIN\Desktop\Lab 03\HotelManagement\HotelManagement\bin\Debug\net8.0\HotelManagement.dll
+C:\Users\ADMIN\Desktop\Lab 03\HotelManagement\HotelManagement\bin\Debug\net8.0\HotelManagement.pdb
+C:\Users\ADMIN\Desktop\Lab 03\HotelManagement\HotelManagement\obj\Debug\net8.0\HotelManagement.dll
+C:\Users\ADMIN\Desktop\Lab 03\HotelManagement\HotelManagement\obj\Debug\net8.0\refint\HotelManagement.dll
+C:\Users\ADMIN\Desktop\Lab 03\HotelManagement\HotelManagement\obj\Debug\net8.0\HotelManagement.pdb
+C:\Users\ADMIN\Desktop\Lab 03\HotelManagement\HotelManagement\obj\Debug\net8.0\HotelManagement.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\Lab 03\HotelManagement\HotelManagement\obj\Debug\net8.0\ref\HotelManagement.dll

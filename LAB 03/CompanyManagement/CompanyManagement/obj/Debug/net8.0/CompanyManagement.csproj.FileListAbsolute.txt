@@ -1,0 +1,14 @@
+C:\Users\ADMIN\Desktop\Lab 03\CompanyManagement\CompanyManagement\bin\Debug\net8.0\CompanyManagement.exe
+C:\Users\ADMIN\Desktop\Lab 03\CompanyManagement\CompanyManagement\bin\Debug\net8.0\CompanyManagement.deps.json
+C:\Users\ADMIN\Desktop\Lab 03\CompanyManagement\CompanyManagement\bin\Debug\net8.0\CompanyManagement.runtimeconfig.json
+C:\Users\ADMIN\Desktop\Lab 03\CompanyManagement\CompanyManagement\bin\Debug\net8.0\CompanyManagement.dll
+C:\Users\ADMIN\Desktop\Lab 03\CompanyManagement\CompanyManagement\bin\Debug\net8.0\CompanyManagement.pdb
+C:\Users\ADMIN\Desktop\Lab 03\CompanyManagement\CompanyManagement\obj\Debug\net8.0\CompanyManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\Lab 03\CompanyManagement\CompanyManagement\obj\Debug\net8.0\CompanyManagement.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\Lab 03\CompanyManagement\CompanyManagement\obj\Debug\net8.0\CompanyManagement.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\Lab 03\CompanyManagement\CompanyManagement\obj\Debug\net8.0\CompanyManagement.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Lab 03\CompanyManagement\CompanyManagement\obj\Debug\net8.0\CompanyManagement.dll
+C:\Users\ADMIN\Desktop\Lab 03\CompanyManagement\CompanyManagement\obj\Debug\net8.0\refint\CompanyManagement.dll
+C:\Users\ADMIN\Desktop\Lab 03\CompanyManagement\CompanyManagement\obj\Debug\net8.0\CompanyManagement.pdb
+C:\Users\ADMIN\Desktop\Lab 03\CompanyManagement\CompanyManagement\obj\Debug\net8.0\CompanyManagement.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\Lab 03\CompanyManagement\CompanyManagement\obj\Debug\net8.0\ref\CompanyManagement.dll
