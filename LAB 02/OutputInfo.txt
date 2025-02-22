@@ -1,0 +1,8 @@
+
+ MilkID = MILK01032016, 
+ MilkName =  THTrueMilk
+
+ ProductionDate = 01/03/2016, 
+ ExpiredDate = 20/05/2017
+
+ Quantity = 789 San Pham

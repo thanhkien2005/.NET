@@ -1,0 +1,14 @@
+C:\Users\T K\OneDrive - VNU-HCMUS\Desktop\Projects kì 5\Project .NET\LAB 02\LIbrary Management\LIbrary Management\bin\Debug\net8.0\LIbrary Management.exe
+C:\Users\T K\OneDrive - VNU-HCMUS\Desktop\Projects kì 5\Project .NET\LAB 02\LIbrary Management\LIbrary Management\bin\Debug\net8.0\LIbrary Management.deps.json
+C:\Users\T K\OneDrive - VNU-HCMUS\Desktop\Projects kì 5\Project .NET\LAB 02\LIbrary Management\LIbrary Management\bin\Debug\net8.0\LIbrary Management.runtimeconfig.json
+C:\Users\T K\OneDrive - VNU-HCMUS\Desktop\Projects kì 5\Project .NET\LAB 02\LIbrary Management\LIbrary Management\bin\Debug\net8.0\LIbrary Management.dll
+C:\Users\T K\OneDrive - VNU-HCMUS\Desktop\Projects kì 5\Project .NET\LAB 02\LIbrary Management\LIbrary Management\bin\Debug\net8.0\LIbrary Management.pdb
+C:\Users\T K\OneDrive - VNU-HCMUS\Desktop\Projects kì 5\Project .NET\LAB 02\LIbrary Management\LIbrary Management\obj\Debug\net8.0\LIbrary Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T K\OneDrive - VNU-HCMUS\Desktop\Projects kì 5\Project .NET\LAB 02\LIbrary Management\LIbrary Management\obj\Debug\net8.0\LIbrary Management.AssemblyInfoInputs.cache
+C:\Users\T K\OneDrive - VNU-HCMUS\Desktop\Projects kì 5\Project .NET\LAB 02\LIbrary Management\LIbrary Management\obj\Debug\net8.0\LIbrary Management.AssemblyInfo.cs
+C:\Users\T K\OneDrive - VNU-HCMUS\Desktop\Projects kì 5\Project .NET\LAB 02\LIbrary Management\LIbrary Management\obj\Debug\net8.0\LIbrary Management.csproj.CoreCompileInputs.cache
+C:\Users\T K\OneDrive - VNU-HCMUS\Desktop\Projects kì 5\Project .NET\LAB 02\LIbrary Management\LIbrary Management\obj\Debug\net8.0\LIbrary Management.dll
+C:\Users\T K\OneDrive - VNU-HCMUS\Desktop\Projects kì 5\Project .NET\LAB 02\LIbrary Management\LIbrary Management\obj\Debug\net8.0\refint\LIbrary Management.dll
+C:\Users\T K\OneDrive - VNU-HCMUS\Desktop\Projects kì 5\Project .NET\LAB 02\LIbrary Management\LIbrary Management\obj\Debug\net8.0\LIbrary Management.pdb
+C:\Users\T K\OneDrive - VNU-HCMUS\Desktop\Projects kì 5\Project .NET\LAB 02\LIbrary Management\LIbrary Management\obj\Debug\net8.0\LIbrary Management.genruntimeconfig.cache
+C:\Users\T K\OneDrive - VNU-HCMUS\Desktop\Projects kì 5\Project .NET\LAB 02\LIbrary Management\LIbrary Management\obj\Debug\net8.0\ref\LIbrary Management.dll

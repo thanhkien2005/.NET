@@ -1,0 +1,4 @@
+MilkName: THTrueMilk
+ProdcutionDate: 13/01/2016
+ExpiredDate: 20/11/2017
+Quantity: 13579
