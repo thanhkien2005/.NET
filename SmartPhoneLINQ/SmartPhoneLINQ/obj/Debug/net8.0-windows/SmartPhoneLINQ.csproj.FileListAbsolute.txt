@@ -1,0 +1,8 @@
+C:\Users\PC\Desktop\.NET bonú\SmartPhoneLINQ\SmartPhoneLINQ\obj\Debug\net8.0-windows\SmartPhoneLINQ.Form1.resources
+C:\Users\PC\Desktop\.NET bonú\SmartPhoneLINQ\SmartPhoneLINQ\obj\Debug\net8.0-windows\SmartPhoneLINQ.Properties.Resources.resources
+C:\Users\PC\Desktop\.NET bonú\SmartPhoneLINQ\SmartPhoneLINQ\obj\Debug\net8.0-windows\SmartPhoneLINQ.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\.NET bonú\SmartPhoneLINQ\SmartPhoneLINQ\obj\Debug\net8.0-windows\SmartPhoneLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\.NET bonú\SmartPhoneLINQ\SmartPhoneLINQ\obj\Debug\net8.0-windows\SmartPhoneLINQ.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\.NET bonú\SmartPhoneLINQ\SmartPhoneLINQ\obj\Debug\net8.0-windows\SmartPhoneLINQ.AssemblyInfo.cs
+C:\Users\PC\Desktop\.NET bonú\SmartPhoneLINQ\SmartPhoneLINQ\obj\Debug\net8.0-windows\SmartPhoneLINQ.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\.NET bonú\SmartPhoneLINQ\SmartPhoneLINQ\obj\Debug\net8.0-windows\SmartPhoneLINQ.csproj.AssemblyReference.cache
